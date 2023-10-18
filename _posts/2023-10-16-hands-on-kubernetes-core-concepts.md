@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hands-On Kubernetes: Kubernetes Abstractions and Core Concepts"
+title:  "Hands-On Kubernetes: Abstractions and Core Concepts"
 date:   2023-10-16 08:00:18 +0200
 description: An Introduction to kubernetes abstractions and core concepts. This is the first blog post in the hands-on kubernetes blog series.
 categories: Kubernetes
